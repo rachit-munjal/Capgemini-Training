@@ -1,1 +1,1 @@
-# Capgemini-Training
+# Java-Training
