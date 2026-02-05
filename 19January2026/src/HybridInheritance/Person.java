@@ -1,4 +1,4 @@
-package Jan19.HybridInheritance;
+package HybridInheritance;
 
 /*Sample Problem 1: Restaurant Management System with Hybrid Inheritance
 Description: Model a restaurant system where Person is the superclass and Chef and Waiter are subclasses. Both Chef and Waiter should implement a Worker interface that requires a performDuties() method.

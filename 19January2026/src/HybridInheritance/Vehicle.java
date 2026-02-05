@@ -1,4 +1,4 @@
-package Jan19.HybridInheritance;
+package HybridInheritance;
 
 /*Sample Problem 2: Vehicle Management System with Hybrid Inheritance
 Description: Model a vehicle system where Vehicle is the superclass and ElectricVehicle and PetrolVehicle are subclasses. Additionally, create a Refuelable interface implemented by PetrolVehicle.
