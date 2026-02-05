@@ -1,0 +1,44 @@
+class Test<T, U>
+{
+    T obj1;  // An object of type T
+    U obj2;  // An object of type U
+
+    Test(T obj1, U obj2)
+    {
+        this.obj1 = obj1;
+        this.obj2 = obj2;
+    }
+
+    public void print()
+    {
+        System.out.println(obj1);
+        System.out.println(obj2);
+    }
+}
+
+public class Geeks
+{
+    public static void main (String[] args)
+    {
+        Test <String, Integer> obj =
+                new Test<String, Integer>("GfG", 15);
+
+        obj.print();
+    }
+}
+
+
+
+class Juice{
+
+}
+class Tropicana extends Juice{
+
+}
+class Test{
+    public static void main(String args[]){
+        Tropicana[] x = new Tropicana[5];
+        x[0] = new Tropicana();
+        Juice[] y = x;
+    }
+}
