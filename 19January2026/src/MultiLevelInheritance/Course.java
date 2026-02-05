@@ -1,4 +1,4 @@
-package Jan19.MultilevelInheritance;
+package MultiLevelInheritance;
 
 /*Sample Problem 2: Educational Course Hierarchy
 Description: Model a course system where Course is the base class, OnlineCourse is a subclass, and PaidOnlineCourse extends OnlineCourse.

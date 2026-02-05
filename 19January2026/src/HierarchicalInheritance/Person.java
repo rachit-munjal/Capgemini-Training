@@ -1,4 +1,4 @@
-package Jan19.HierarchicalInheritance;
+package HierarchicalInheritance;
 
 /*Sample Problem 2: School System with Different Roles
 Description: Create a hierarchy for a school system where Person is the superclass, and Teacher, Student, and Staff are subclasses.

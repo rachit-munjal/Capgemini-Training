@@ -1,4 +1,4 @@
-package Jan19.MultilevelInheritance;
+package MultiLevelInheritance;
 
 /*Sample Problem 1: Online Retail Order Management
 Description: Create a multilevel hierarchy to manage orders, where Order is the base class, ShippedOrder is a subclass, and DeliveredOrder extends ShippedOrder.

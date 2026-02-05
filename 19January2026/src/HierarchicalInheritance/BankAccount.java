@@ -1,4 +1,4 @@
-package Jan19.HierarchicalInheritance;
+package HierarchicalInheritance;
 
 /*Sample Problem 1: Bank Account Types
 Description: Model a banking system with different account types using hierarchical inheritance. BankAccount is the superclass, with SavingsAccount, CheckingAccount, and FixedDepositAccount as subclasses.
