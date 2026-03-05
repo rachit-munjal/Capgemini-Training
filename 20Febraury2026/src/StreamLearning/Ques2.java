@@ -14,7 +14,7 @@ public class Ques2 {
 
         al.stream().filter(x -> x >= 50).forEach(System.out::println);
 
-        ArrayList<Integer> ans = (ArrayList<Integer>) al.stream().filter(x -> x > 50).collect(Collectors.toList());
+        ArrayList<Integer> ans = (ArrayList<Integer>) al.stream().filter(x -> x >= 50).collect(Collectors.toList());
         System.out.println(ans);
     }
 }
